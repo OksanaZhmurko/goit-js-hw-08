@@ -22,7 +22,8 @@
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "simple-lightbox": "^2.1.0",
-    "simplelightbox": "^2.14.2"
+    "simplelightbox": "^2.14.2",
+    "v8-compile-cache": "^2.4.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
